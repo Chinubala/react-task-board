@@ -13,5 +13,5 @@ Features:
 - Persist tasks between tabs via local storage
 
 ## Demo
-<img src="react-task-board\src\Screenshot 2024-01-15 184703.png" width="50%"; height="50%"/>
+<img src="./src/Screenshot 2024-01-15 184703.png" width="50%"; height="50%" alt="Screenshot 2024-01-15 184703.png"/>
 
